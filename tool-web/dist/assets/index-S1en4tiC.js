@@ -1,0 +1,11 @@
+import{a as r,j as e,L as t,R as a,b as l,d as i,e as n,T as d}from"./index-CYeMvKJj.js";import{A as c}from"./index-pW4qdEub.js";import"./useBreakpoint-D7duzmMZ.js";const m=r(({css:s,token:o})=>({ghost:s`
+      visibility: hidden;
+    `,root:s`
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: ${o.zIndexPopupBase};
+      padding: 0 ${o.paddingLG}px;
+      line-height: 1;
+    `})),b=()=>{const{styles:s}=m();return e.jsxDEV(e.Fragment,{children:[e.jsxDEV(t.Header,{className:s.ghost},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:10,columnNumber:7},void 0),e.jsxDEV(t.Header,{className:s.root,children:e.jsxDEV(a,{justify:"space-between",align:"middle",wrap:!1,gutter:16,style:{fontSize:0,lineHeight:1,verticalAlign:"middle",height:"100%"},children:e.jsxDEV(l,{children:e.jsxDEV(i,{themeMode:"dark",children:e.jsxDEV(n,{align:"center",children:[e.jsxDEV(c,{shape:"square",src:"/favicon.png"},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:27,columnNumber:17},void 0),e.jsxDEV(d.Title,{level:5,style:{whiteSpace:"nowrap",textTransform:"uppercase"},children:"工具系统"},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:28,columnNumber:17},void 0)]},void 0,!0,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:26,columnNumber:15},void 0)},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:25,columnNumber:13},void 0)},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:24,columnNumber:11},void 0)},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:12,columnNumber:9},void 0)},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:11,columnNumber:7},void 0)]},void 0,!0,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/layouts/page/components/header/index.tsx",lineNumber:9,columnNumber:5},void 0)};export{b as default};

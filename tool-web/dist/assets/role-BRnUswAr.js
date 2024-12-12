@@ -1,0 +1,1 @@
+import{ac as e}from"./index-CYeMvKJj.js";const s=async()=>{const{data:t}=await e.get("/role");return t},n=async t=>{const{data:a}=await e.post("/role",t);return a},r=async t=>{const{data:a}=await e.put("/role",t);return a},c=async t=>{const{data:a}=await e.delete(`/role/${t}`);return a};export{n as a,c as d,s as g,r as m};

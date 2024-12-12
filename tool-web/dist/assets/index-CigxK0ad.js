@@ -1,0 +1,1 @@
+import{j as e}from"./index-CYeMvKJj.js";function r(){return e.jsxDEV("div",{children:"dashboard"},void 0,!1,{fileName:"/Users/bytedance/projects/xxl-tool-web/src/pages/dashboard/index.tsx",lineNumber:2,columnNumber:10},this)}export{r as default};
